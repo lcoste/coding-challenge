@@ -4,6 +4,7 @@
 
 - You must have fun!
 - Code will be written in Python
+- No teams
 - You will write an algorithm to simulate a player in a game
 - Please do not lookup any solutions for the challenge
 - Your code will be run against the other players
@@ -22,3 +23,10 @@
 - Early submissions will be open starting on Wednesday
 - I will try to test your code as soon as possible
 - Results from early submissions will remain secret
+
+#### Victory
+
+- The price for winning is: **everyone's admiration!**
+
+
+Please keep all questions regarding challenges in the group chat.
