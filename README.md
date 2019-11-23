@@ -14,7 +14,7 @@
 #### Timing
 
 - You have 1 week to complete the code
-- Challenge will be released on Saturday at 5 PM
+- Challenge will be released on Saturday at 5 PM (Challenge will remain secret until released)
 - Code is due on the next Saturday at 4 PM
 
 #### Early Submission
@@ -26,6 +26,7 @@
 
 #### Victory
 
+- Results will be posted as soon as possible after the code is due
 - The price for winning is: **everyone's admiration!**
 
 
