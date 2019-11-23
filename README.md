@@ -3,7 +3,7 @@
 ## Rules
 
 - You must have fun!
-- Code will be written in Python
+- Code will be written in Python (I am using Python 3.7)
 - No teams
 - You will write an algorithm to simulate a player in a game
 - Please do not lookup any solutions for the challenge
