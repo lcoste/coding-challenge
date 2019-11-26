@@ -32,6 +32,8 @@ The first dimension of the list will be the different columns of the grid (7 of 
 
 The second dimension will be the rows among each column starting from the bottom(6 rows).
 
+This function will have a maximum running time of 60 seconds.
+
 Take this grid as an example: ![Example grid](https://s3.eu-west-2.amazonaws.com/aigaming2/helpPagesAssets/Connect4/cn4Example1.png)
 The correspondent input would be:
 ```
